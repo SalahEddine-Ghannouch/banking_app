@@ -12,7 +12,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone git@github.com:SalahEddine-Ghannouch/banking_app.git
+git clone https://github.com/SalahEddine-Ghannouch/banking_app.git
 cd banking
 Installation
 
